@@ -57,7 +57,7 @@ We performed hyperparameter tuning using **GridSearchCV** with the following sea
 ## ⚙️ **How to Run the Code**  
 ### 1. **Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/loan-default-lgbm.git
+git clone https://github.com/rishitha445/loan-default-lgbm.git
 
 
 
